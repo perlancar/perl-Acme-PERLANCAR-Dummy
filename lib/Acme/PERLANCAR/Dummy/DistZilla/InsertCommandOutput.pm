@@ -5,6 +5,10 @@ package Acme::PERLANCAR::Dummy::DistZilla::InsertCommandOutput;
 # DIST
 # VERSION
 
+use 5.010001;
+use strict;
+use warnings;
+
 1;
 
 =encoding utf8
