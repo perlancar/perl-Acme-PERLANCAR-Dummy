@@ -9,9 +9,11 @@ use strict;
 use warnings;
 
 our %FEATURES = (
-    Dummy => {
-        feature2 => 1,
-        feature3 => 'a',
+    features => {
+        Dummy => {
+            feature2 => 1,
+            feature3 => 'a',
+        },
     },
 );
 
