@@ -1,4 +1,4 @@
-package Acme::PERLANCAR::Dummy::ModuleFeatures::User1;
+package Acme::PERLANCAR::Dummy::ModuleFeatures::Declarer1;
 
 # AUTHORITY
 # DATE
@@ -18,7 +18,7 @@ our %FEATURES = (
 );
 
 1;
-# ABSTRACT: A user module for Module::Features::Dummy
+# ABSTRACT: A feature declarer module for Module::Features::Dummy
 
 =head1 DESCRIPTION
 
