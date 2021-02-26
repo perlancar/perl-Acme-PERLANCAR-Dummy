@@ -9,6 +9,9 @@ use strict;
 use warnings;
 
 our %FEATURES = (
+    set_v => {
+        Dummy => 2,
+    },
     features => {
         Dummy => {
             feature1 => 0,
