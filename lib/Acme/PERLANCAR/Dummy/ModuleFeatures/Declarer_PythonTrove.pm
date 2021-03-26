@@ -14,14 +14,14 @@ our %FEATURES = (
     },
     features => {
         PythonTrove => {
-            "Development_Status" => "3 - Alpha",
-            "Intended_Audience" => "Developers",
+            "Development Status" => "3 - Alpha",
+            "Intended Audience" => "Developers",
             "License" => [
                 "OSI Approved :: Artistic License",
                 "OSI Approved :: GNU General Public License v2 or later (GPLv2+)",
             ],
-            "Natural_Language" => "Indonesian",
-            "Programming_Language" => "Perl",
+            "Natural Language" => "Indonesian",
+            "Programming Language" => "Perl",
             "Environment" => "Console",
             "Topic" => [
                 "Software Development :: Libraries :: Perl Modules",
