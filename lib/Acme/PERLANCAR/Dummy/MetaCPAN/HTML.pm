@@ -10,8 +10,9 @@ package Acme::PERLANCAR::Dummy::MetaCPAN::HTML;
 
 =head1 DESCRIPTION
 
-The filtering is performed by C<MetaCPAN::Web::RenderUtil>'s C<filter_html> in
-the L<metacpan-web|https://github.com/metacpan/metacpan-web> repository.
+The filtering is performed by C<MetaCPAN::Web::RenderUtil>'s C<filter_html>
+using L<HTML::Restrict> in the
+L<metacpan-web|https://github.com/metacpan/metacpan-web> repository.
 
 
 =head1 TABLES
