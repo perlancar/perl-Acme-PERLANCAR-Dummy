@@ -1,3 +1,10 @@
+0.009   2021-07-26  Released-By: PERLANCAR; Urgency: medium
+
+	- Add module: :POD::LinkToSection.
+
+	- Mention HTML::Restrict.
+
+
 0.008   2021-07-18  Released-By: PERLANCAR; Urgency: medium
 
 	- Add :MetaCPAN::HTML.
