@@ -1,3 +1,8 @@
+0.010   2021-07-26  Released-By: PERLANCAR; Urgency: medium
+
+	- More tests for :POD::LinkToSection.
+
+
 0.009   2021-07-26  Released-By: PERLANCAR; Urgency: medium
 
 	- Add module: :POD::LinkToSection.
