@@ -1,3 +1,8 @@
+0.011   2021-07-26  Released-By: PERLANCAR; Urgency: medium
+
+	- Update doc in :POD::LinkToSection.
+
+
 0.010   2021-07-26  Released-By: PERLANCAR; Urgency: medium
 
 	- More tests for :POD::LinkToSection.
