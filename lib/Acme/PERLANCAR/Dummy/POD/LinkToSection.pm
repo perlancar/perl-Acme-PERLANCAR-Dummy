@@ -251,10 +251,12 @@ Link to section Subheading 2 (a =head2): L</Subheading 2>.
 Link to section Foo::Bar (a =head2 but text is inside a module link: =head2 LE<lt>Foo::BarE<gt>):
 L</Foo::Bar>. On MetaCPAN, it works.
 
-Link to section Baz (an =item): L</Baz>. On MetaCPAN, it does not work.
+Link to section Baz (an =item): L</Baz>. On MetaCPAN, it sometimes works but
+sometimes does not.
 
 Link to section Baz (an =item but text is inside a link: =item *
-LE<lt>Quux::CorgeE<gt>): L</Quux::Corge>. On MetaCPAN, it does not work.
+LE<lt>Quux::CorgeE<gt>): L</Quux::Corge>. On MetaCPAN, it sometimes works but
+sometimes does not.
 
 
 =head1 TODO
